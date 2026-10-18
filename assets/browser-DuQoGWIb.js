@@ -1,0 +1,1 @@
+import{t as r}from"./rolldown-runtime-b3L32Ng1.js";var o=r(((t,e)=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}})),n=o();export{n as default};
